@@ -23,7 +23,7 @@ function About() {
                     Front-end developer. Bachelor of Science in Computers, Artificial Intelligence (Expected Graduation Date: 2024) Damanhur University. I like creating responsive websites and web applications using HTML, CSS, and
                     JavaScript. Skilled in ReactJS, Bootstrap, and Figma, and passionate about creating user-friendly and
                     accessible web experiences. And i take certificate in front-end development from meta. You can see certificate from this link 
-                    <a href="shrtco.de/kCjxIV" className='text-cyan-500 underline ml-4'>shrtco.de/kCjxIV</a>
+                    <a href="https://www.coursera.org/account/accomplishments/professional-cert/XBTVJZXFPAEH" target='_blank' rel="noreferrer" className='text-cyan-500 underline ml-4'>See certificate</a>
                 </p>
             </motion.div>
         </motion.div>

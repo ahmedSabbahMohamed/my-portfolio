@@ -4,7 +4,6 @@ import React from 'react'
 import data from "../data.json"
 import { motion } from 'framer-motion'
 import { fadeIn, staggerContainer } from '../framerMotion/motion'
-import image from "../assets/images/pank.jpg"
 
 function Projects() {
     const projects = data.map(project => {
