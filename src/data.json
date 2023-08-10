@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "url": "https://www.frontendmentor.io/solutions/interactivecarddetailsform-lSX9XFdlP8",
+        "title": "interactive-card-details-form",
+        "desc": "users should be able to:fill in the form and see the card details update in real-time, Receive error messages when the form is submitted if: Any input field is empty, The card number, expiry date, or CVC fields are in the wrong format",
+        "tools": [
+            "react",
+            "bootstrap5",
+            "framer-motion",
+            "redux-toolkit"
+        ],
+        "image": "inter-active-card-details.jpg"
+    },
+    {
+        "id": 2,
+        "url": "https://www.frontendmentor.io/solutions/urlshorteningapimaster-ssTKkdZ0dd",
+        "title": "url-shortening-api-master",
+        "desc": "users should be able to: View the optimal layout for the site depending on their device's screen size, Shorten any valid URL, See a list of their shortened links, even after refreshing the browser",
+        "tools": [
+            "react",
+            "tailwindcss",
+            "localStorage"
+        ],
+        "image": "url.jpg"
+    },
+    {
+        "id": 3,
+        "url": "https://www.frontendmentor.io/solutions/ecommerceproductpagemain-FHZSl74cpQ",
+        "title": "ecommerce-product-page",
+        "desc": " users should be able to: View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page, Open a lightbox gallery by clicking on the large product image, witch the large product image by clicking on the small thumbnail images",
+        "tools": [
+            "react"
+        ],
+        "image": "product.jpg"
+    },
+    {
+        "id": 4,
+        "url": "https://www.frontendmentor.io/solutions/sunnyside-I7NJw3Lmlq",
+        "title": "sunnyside-agency-landing-page",
+        "desc": "users should be able to: View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page",
+        "tools": [
+            "HTML",
+            "SASS"
+        ],
+        "image": "sunny.webp"
+    },
+    {
+        "id": 5,
+        "url": "https://www.frontendmentor.io/solutions/newshomepagemain-4qJip7_4I0",
+        "title": "news-homepage",
+        "desc": "users should be able to: View the optimal layout for the interface depending on their device's screen size, See hover and focus states for all interactive elements on the page",
+        "tools": [
+            "HTML",
+            "SASS"
+        ],
+        "image": "news.jpg"
+    },
+    {
+        "id": 6,
+        "url": "https://www.frontendmentor.io/solutions/easybanklandingpagemaster-T173HqWMhv",
+        "title": "easybank-landing-page",
+        "desc": "users should be able to: View the optimal layout for the site depending on their device's screen size, See hover states for all interactive elements on the page",
+        "tools": [
+            "HTML",
+            "SASS"
+        ],
+        "image": "pank.jpg"
+    }
+]
