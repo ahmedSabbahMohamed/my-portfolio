@@ -46,8 +46,7 @@ function Home() {
                   variants={fadeIn("right", "tween", .1, .9)}
                   className="flex-1"
                 >
-                  <motion.img
-                    drag
+                  <img
                     src={ home }
                     alt="home-img" />
                 </motion.div>
