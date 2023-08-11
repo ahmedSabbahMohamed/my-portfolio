@@ -1,15 +1,13 @@
 import React from 'react'
 function MobileNav() {
-  window.onload = _ => {
-    const menu = document.querySelector("label"),
-    links = document.querySelector(".links")
-    menu.addEventListener("click", _ => {
+
+    const handleClick = _ => {
+        const links = document.querySelector(".links")
         links.classList.toggle("hidden")
-    })
-  }
+    }
+
   return (
     <>
-    {/* <div className="absolute z-10 md:hidden mobile-nav top-5 left-9 w-16 h-16"></div> */}
     <div className='md:hidden'>
         <nav>
         <input
@@ -18,6 +16,7 @@ function MobileNav() {
             type="checkbox"
         />
             <label
+                onClick={handleClick}
                 className="toggle absolute z-50 top-8 left-12 w-8 h-8 cursor-pointer flex flex-col items-start justify-center gap-[6px] duration-[.5s]"
                 htmlFor="checkbox"
             >
