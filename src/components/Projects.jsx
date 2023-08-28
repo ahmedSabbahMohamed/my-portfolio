@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 import { fadeIn, staggerContainer } from '../framerMotion/motion'
 
 function Projects() {
-    const projects = data.map(project => {
+    const projects = data.projects.map(project => {
         return(
             <>
             <motion.a

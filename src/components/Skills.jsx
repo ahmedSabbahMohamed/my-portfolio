@@ -9,6 +9,7 @@ import { motion } from 'framer-motion'
 import { fadeIn, staggerContainer } from '../framerMotion/motion'
 
 function Skills() {
+
   return (
     <section id='skills'>
     <motion.div
