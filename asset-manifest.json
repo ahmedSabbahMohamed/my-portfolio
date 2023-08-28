@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d9bd6b47.css",
+    "main.js": "/my-portfolio/static/js/main.cfc7d4aa.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/pank.jpg": "/my-portfolio/static/media/pank.e23368b3b83305378e70.jpg",
+    "static/media/news.jpg": "/my-portfolio/static/media/news.9a548f8c20e1f85b9f96.jpg",
+    "static/media/url.jpg": "/my-portfolio/static/media/url.b5715968991467fc8ca7.jpg",
+    "static/media/home.png": "/my-portfolio/static/media/home.1131d682f01b724128e5.png",
+    "static/media/product.jpg": "/my-portfolio/static/media/product.3b6a560ebbc87c939f7b.jpg",
+    "static/media/inter-active-card-details.jpg": "/my-portfolio/static/media/inter-active-card-details.84e609ecdfdaee52aebf.jpg",
+    "static/media/desktop-design.jpg": "/my-portfolio/static/media/desktop-design.90ca48820470dc5ece38.jpg",
+    "static/media/sunny.webp": "/my-portfolio/static/media/sunny.c59a23000bfcb865223c.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.d9bd6b47.css.map": "/my-portfolio/static/css/main.d9bd6b47.css.map",
+    "main.cfc7d4aa.js.map": "/my-portfolio/static/js/main.cfc7d4aa.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9bd6b47.css",
+    "static/js/main.cfc7d4aa.js"
+  ]
+}
