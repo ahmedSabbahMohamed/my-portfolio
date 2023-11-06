@@ -33,7 +33,7 @@ function Home() {
                           ease: easeInOut,
                           stiffness: 300
                         }}
-                      href="https://drive.google.com/drive/u/1/my-drive"
+                      href="https://docs.google.com/document/d/1CBVnpn512xWxIskJWm_s-iU-BCEXiuO4cXjVFNPOuI0/edit?usp=sharing"
                       target='_blank'
                       className='flex flex-row gap-1 items-center justify-center font-medium w-1/3 mx-auto md:mx-0 mt-3 text-lg rounded-md bg-blue-400 text-white p-2 border-2 border-blue-400 shadow-md hover:shadow-lg'
                     >
